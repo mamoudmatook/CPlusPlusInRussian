@@ -1,0 +1,1 @@
+void PrintVectorPart(const vector<int>& numbers);

@@ -1,0 +1,22 @@
+// #include "PrintStats.h"
+
+void PrintStats(vector<Person> persons)
+{
+    auto females_end = partition(persons.begin(), persons.end(), [](const Person &p){ return p.gender == Gender::FEMALE; });
+    auto employed_females_end = partition(persons.begin(), persons.end(), [](const Person &p){return p.is_employed;});
+    auto employed_males_end = partition(females_end, persons.end(), [](const Person &p){return p.is_employed;});
+        cout << "Median age = "
+         << ComputeMedianAge(begin(persons), end(persons))          << endl;
+    cout << "Median age for females = "
+         << ComputeMedianAge(begin(persons), females_end)           << endl;
+    cout << "Median age for males = "
+         << ComputeMedianAge(females_end, end(persons))             << endl;
+    cout << "Median age for employed females = "
+         << ComputeMedianAge(begin(persons),  employed_females_end) << endl;
+    cout << "Median age for unemployed females = "
+         << ComputeMedianAge(employed_females_end, females_end)     << endl;
+    cout << "Median age for employed males = "
+         << ComputeMedianAge(females_end, employed_males_end)       << endl;
+    cout << "Median age for unemployed males = "
+         << ComputeMedianAge(employed_males_end, end(persons))      << endl;
+}
