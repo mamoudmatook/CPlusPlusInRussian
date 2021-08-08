@@ -24,4 +24,5 @@ int main()
   IteratorRange rng{1,5};
   for(auto i = rng.first; i < rng.last; i++)
   cout << i << endl;
+  return 0;
 }
