@@ -49,6 +49,24 @@ private:
 
 Node *Next(Node *me)
 {
+    if (me->right != nullptr)
+    {
+        Node *right = me->right;
+        while (right->left != nullptr)
+        {
+            right = right->left;
+        }
+        return right;
+    }
+    else
+    {
+        Node *parent = me->parent;
+        while (parent != nullptr && parent->value < me->value)
+        {
+            parent = parent->parent;
+        }
+        return parent;
+    }
 }
 
 void Test1()
