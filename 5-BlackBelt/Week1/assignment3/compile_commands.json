@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/descriptions.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/descriptions.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/descriptions.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/json.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/json.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/json.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/requests.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/requests.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/requests.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/sphere.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/sphere.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/sphere.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/transport_catalog.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/transport_catalog.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/transport_catalog.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/transport_router.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/transport_router.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/transport_router.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/utils.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/utils.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/utils.cpp"
+},
+{
+  "directory": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dsanitize_transport_guide_EXPORTS -I/Users/maatuq/workspace/cpp-brown-belt/utility  -fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -O0 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++17 -o CMakeFiles/sanitize_transport_guide.dir/main.cpp.o -c /Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/main.cpp",
+  "file": "/Users/maatuq/Oneyear/Coding/C++/CPlusPlusInRussian/5-BlackBelt/Week1/assignment3/main.cpp"
+}
+]
